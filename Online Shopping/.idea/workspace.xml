@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dbbe28e-85d9-4b1d-8bd2-f2c26c8334a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1cXSLquyO7LLGmq9mPOF0FCa7pq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/users" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\Online Shopping\users" />
+      <recent name="C:\laragon\www\Online Shopping\controlPanel" />
+      <recent name="C:\laragon\www\Online Shopping\admin" />
+      <recent name="C:\laragon\www\Online Shopping\Startup" />
+      <recent name="C:\laragon\www\Online Shopping System\admin\layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\Online Shopping\users" />
+      <recent name="C:\laragon\www\Online Shopping" />
+      <recent name="C:\laragon\www\Online Shopping\bootstrap" />
+      <recent name="C:\laragon\www\Online Shopping\Startup" />
+      <recent name="C:\laragon\www\Online Shopping\frontEnd" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dbbe28e-85d9-4b1d-8bd2-f2c26c8334a3" name="Default Changelist" comment="" />
+      <created>1590673391956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590673391956</updated>
+      <workItem from="1590673393158" duration="7700000" />
+      <workItem from="1590977179327" duration="8517000" />
+      <workItem from="1591014750548" duration="13279000" />
+      <workItem from="1591037506045" duration="181000" />
+      <workItem from="1591059492373" duration="2547000" />
+      <workItem from="1591062056929" duration="3835000" />
+      <workItem from="1591066682464" duration="704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591062213371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591062213371" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590676986596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590676986596" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1591063461660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591063461660" />
+  </component>
+</project>
