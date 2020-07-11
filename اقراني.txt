@@ -1,0 +1,12 @@
+Name : Moaz Ahmed Moshtha
+id : 120161444
+
+===== DB =====
+CarShop\database\carshop.sql
+
+=====login as Admin=====
+user = admin 
+pass = admin
+
+=====login as User=====
+  Sign Up 
